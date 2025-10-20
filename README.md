@@ -78,7 +78,7 @@ Access Level: ROOT
 
 ## 🔥 ACTIVITY GRAPH 🔥
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=X-team-arch&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -137,19 +137,7 @@ me.say_hi()
 
 ## 🏆 ACHIEVEMENTS UNLOCKED 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophy" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📡 CONNECTION ESTABLISHED 📡
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TU_DISCORD)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TU_TELEGRAM)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_TWITTER)
+<img src="https://github-profile-trophy.vercel.app/?username=X-team-arch&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophy" />
 
 </div>
 
